@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IPL winner predictor</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='banner/title5.jpeg') }}">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body style="background-size: 100% 100%; background-repeat: no-repeat;background-attachment: fixed;background-position: center; background-color:#4f4e4d;">
+    <div class="container">
+        <div class="jumbotron" style="opacity:1; background-color: #b0adac;">
+            <h1 align="center" style="color: black; font-family: Times New Roman; font-size: 80px; font-style: oblique;">IPL WINNER PREDICTOR</h1>
+        </div>
+
+        <br><br>
+
+        <div class="jumbotron" style="opacity:1; background-color:#b0adac;">
+            <div class="container" style="opacity:none;">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Add image to the slide for slides -->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="{{ url_for('static',filename='banner/IPL-10-Logo-PNG.png') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/all.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive"  style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/ipl_all.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/csk.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/mi.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/mi1.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/kkr.png') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/kxp.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/delhi.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/srh.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/rr.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/rcb.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/rcb1.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+
+                        <div class="item">
+                            <img src="{{ url_for('static',filename='banner/rcb2.jpg') }}" alt="no image found" class="img-thumbnail" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <br>
+
+            <div class="row">
+                <div class="col-sm-1"></div>
+                <div class="col-sm-1"></div>
+                <div class="col-sm-8">
+                    <div class="jumbotron" style="opacity:1; background-color: #4f4e4d;">
+                    <form class="text-center border border-light p-5" action="{{ url_for('predict') }}" method="post">
+                        <p class="h4 mb-4" style="color: #c4c0c0; font-weight: 400; font-size: 30px; font-style: oblique;">Submit details to predict match score</p><br>
+                        <!-- Batting team -->
+                        <p class="h4 mb-4" align="left" style="color: #c4c0c0;font-weight:400;font-style: oblique;"> Select a Team1 </p>
+                        <select class="form-control mb-4" name="Team1" required>
+                            <option value="">Select a Team1</option>
+                            <option value="Mumbai Indians">Mumbai Indians</option>
+                            <option value="Kolkata Knight Riders">Kolkata Knight Riders</option>
+                            <option value="Chennai Super Kings">Chennai Super Kings</option>
+                            <option value="Rajasthan Royals">Rajasthan Royals</option>
+                            <option value="Kings XI Punjab">Kings XI Punjab</option>
+                            <option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+                            <option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+                        </select>
+
+                        <!-- Bowling team -->
+                        <p class="h4 mb-4" align="left" style="color: #c4c0c0;font-weight:400; font-style: oblique;"> Select a Team2 </p>
+                        <select class="form-control mb-4" name="Team2" required>
+                            <option value="">Select a Team2</option>
+                            <option value="Mumbai Indians">Mumbai Indians</option>
+                            <option value="Kolkata Knight Riders">Kolkata Knight Riders</option>
+                            <option value="Chennai Super Kings">Chennai Super Kings</option>
+                            <option value="Rajasthan Royals">Rajasthan Royals</option>
+                            <option value="Kings XI Punjab">Kings XI Punjab</option>
+                            <option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+                            <option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+                        </select>
+
+                        <p class="h4 mb-4" align="left" style="color: #c4c0c0;font-weight: 400; font-style: oblique;">Enter Team1 Points </p>
+                        <input type="text"  class="form-control mb-4"  name="Team1_pts" required>
+
+                        <p class="h4 mb-4" align="left" style="color: #c4c0c0;font-weight: 400; font-style: oblique;"> Enter Team1 Net Run Rate(NRR)</p>
+                        <input type="text" class="form-control mb-4" name="Team1_NRR" required>
+
+                        <p class="h4 mb-4" align="left" style="color: #c4c0c0;font-weight: 400; font-style: oblique;">Enter Team2 Points </p>
+                        <input type="text" class="form-control mb-4"  name="Team2_pts" required>
+
+                        <p class="h4 mb-4" align="left" style="color: #c4c0c0;font-weight: 400; font-style: oblique;"> Enter Team2 Net Run Rate(NRR)</p>
+                        <input type="text" class="form-control mb-4" name="Team2_NRR" required>
+
+                        <p class="h4 mb-4" align="left" style="color: #c4c0c0;font-weight:400; font-style: oblique;"> Toss winning Team </p>
+                        <select class="form-control mb-4" name="Toss_winnng_team" required>
+                            <option value="">Select Toss winner Team</option>
+                            <option value="Mumbai Indians">Mumbai Indians</option>
+                            <option value="Kolkata Knight Riders">Kolkata Knight Riders</option>
+                            <option value="Chennai Super Kings">Chennai Super Kings</option>
+                            <option value="Rajasthan Royals">Rajasthan Royals</option>
+                            <option value="Kings XI Punjab">Kings XI Punjab</option>
+                            <option value="Royal Challengers Bangalore">Royal Challengers Bangalore</option>
+                            <option value="Sunrisers Hyderabad">Sunrisers Hyderabad</option>
+                        </select>
+
+                        <br>
+                        <button class="btn btn-info btn-block my-4" type="submit"><p style="font-style: oblique; color:black;">Predict</p></button><br>
+                    </form>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </body>
+</html>
+</body>
+</html>
+

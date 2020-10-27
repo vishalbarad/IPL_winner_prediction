@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IPL score predictor</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='banner/title5.jpeg') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body style="background-size: 100% 100%; background-repeat: no-repeat;background-attachment: fixed;background-position: center; background-color:#4f4e4d;">
+    <div class="container">
+        <div class="jumbotron" style="opacity:1; background-color: #b0adac;">
+            <h1 align="center" style="color: black; font-family: Times New Roman; font-size: 80px; font-style: oblique;font-style: oblique;">IPL SCORE PREDICTOR</h1>
+        </div>
+
+        <br><br>
+        <div class="jumbotron" style="opacity:0.9; background-color: #b0adac;">
+            <div class="container" style="opacity:none;">
+                {% if team1=='Chennai Super Kings' %}
+                <div class="col-sm-4" ><h2 align="center" style="border:1px solid; border-width: medium; font-style: oblique;">Team1</h2><h3 align="center" style="font-style: oblique;">Chennai Super Kings</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/csk.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team1=='Mumbai Indians' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team1</h2><h3 align="center" style="font-style: oblique;">Mumbai Indians</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/m1.jpeg') }}" alt="no image found" class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team1=='Kolkata Knight Riders' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team1</h2><h3 align="center" style="font-style: oblique;">Kolkata Knight Riders</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/kkr.png') }}" alt="no image found" class="img-thumbnail"  style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team1=='Kings XI Punjab' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team1</h2><h3 align="center" style="font-style: oblique;">Kings XI Punjab</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/kxp.jpeg') }}" alt="no image found" class="img-thumbnail"  style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team1=='Rajasthan Royals' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team1</h2><h3 align="center" style="font-style: oblique;">Rajasthan Royals</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/rr.jpeg') }}" alt="no image found" class="img-thumbnail"  style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team1=='Royal Challengers Bangalore' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team1</h2><h3 align="center" style="font-style: oblique;">Royal Challengers Bangalore</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/rcb.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team1=='Sunrisers Hyderabad' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team1</h2><h3 align="center" style="font-style: oblique;">Sunrisers Hyderabad</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/srh.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% endif %}
+                <div class="col-sm-4" align="center" style="margin-top:10%;"><br>
+                <h1 style="font-style: oblique;">VS</h1>
+                    <p style="font-style: oblique;"><b><h2 style="font-style: oblique;">{{ Winner }}</h2> <h3 style="font-style: oblique;"> going to win this match </h3> </b></p></div>
+
+                 {% if team2=='Chennai Super Kings' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team2</h2><h3 align="center" style="font-style: oblique;">Chennai Super Kings</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/csk.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team2=='Mumbai Indians' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team2</h2><h3 align="center" style="font-style: oblique;">Mumbai Indians</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/m1.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team2=='Kolkata Knight Riders' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team2</h2><h3 align="center" style="font-style: oblique;">Kolkata Knight Riders</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/kkr.png') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team2=='Kings XI Punjab' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team2</h2><h3 align="center" style="font-style: oblique;">Kings XI Punjab</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/kxp.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team2=='Rajasthan Royals' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team2</h2><h3 align="center" style="font-style: oblique;">Rajasthan Royals</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/rr.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team2=='Royal Challengers Bangalore' %}
+                <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team2</h2><h3 align="center" style="font-style: oblique;">Royal Challengers Bangalore</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/rcb.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div></div>
+                {% elif team2=='Sunrisers Hyderabad' %}
+            <div class="col-sm-4"><h2 align="center" style="border:1px solid; border-width: medium;font-style: oblique;">Team2</h2><h3 align="center" style="font-style: oblique;">Sunrisers Hyderabad</h3><div style="border-style: solid;"><img src="{{ url_for('static',filename='logo/srh.jpeg') }}" alt="no image found"  class="img-responsive" style="height:350px; max-height: 350px; max-width:100%; width: 100%;"></div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    </div>
+    </body>
+</html>
+
+
