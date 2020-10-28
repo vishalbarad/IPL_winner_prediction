@@ -1,0 +1,450 @@
+team1,team2,toss_winner,toss_decision,winner,win,toss_win,Team1_pts,Team1_RR,Team2_pts,Team2_RR
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,1,Rising Pune Supergiants,team 2,1,16.583333333333332,0.3133333333333334,14.0,0.0955
+Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.0,-0.393,14.666666666666666,0.08316666666666665
+Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,14.0,0.0955,13.5,-0.19741666666666666
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,13.0,-0.393,15.571428571428571,0.15285714285714286
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2,Kings XI Punjab,team 2,2,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,15.571428571428571,0.15285714285714286,16.583333333333332,0.3133333333333334
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,14.0,0.0955,13.0,-0.393
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,15.571428571428571,0.15285714285714286
+Gujarat Lions,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.0,-0.393,16.583333333333332,0.3133333333333334
+Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Rising Pune Supergiants,team 1,1,14.0,0.0955,13.666666666666666,-0.05058333333333335
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,13.5,-0.19741666666666666
+Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,13.0,-0.393
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,14.666666666666666,0.08316666666666665,13.0,-0.393
+Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,1,Rising Pune Supergiants,team 2,1,15.571428571428571,0.15285714285714286,14.0,0.0955
+Kings XI Punjab,Gujarat Lions,Gujarat Lions,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,13.0,-0.393
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,1,Rising Pune Supergiants,team 1,1,14.0,0.0955,16.583333333333332,0.3133333333333334
+Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,14.0,0.0955,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,13.666666666666666,-0.05058333333333335,13.0,-0.393
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,13.5,-0.19741666666666666
+Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Rising Pune Supergiants,team 1,1,14.0,0.0955,13.666666666666666,-0.05058333333333335
+Gujarat Lions,Mumbai Indians,Gujarat Lions,2,Mumbai Indians,team 2,2,13.0,-0.393,16.583333333333332,0.3133333333333334
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2,Mumbai Indians,team 2,2,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,1,Rising Pune Supergiants,team 2,1,13.0,-0.393,14.0,0.0955
+Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,1,Rising Pune Supergiants,team 2,1,14.666666666666666,0.08316666666666665,14.0,0.0955
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,13.666666666666666,-0.05058333333333335
+Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Rising Pune Supergiants,team 1,1,14.0,0.0955,15.571428571428571,0.15285714285714286
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.666666666666666,-0.05058333333333335,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,13.5,-0.19741666666666666,13.0,-0.393
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,2,Sunrisers Hyderabad,team 2,2,16.583333333333332,0.3133333333333334,15.571428571428571,0.15285714285714286
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,13.0,-0.393,15.571428571428571,0.15285714285714286
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,1,Rising Pune Supergiants,team 2,1,13.5,-0.19741666666666666,14.0,0.0955
+Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,1,Rising Pune Supergiants,team 1,1,14.0,0.0955,16.583333333333332,0.3133333333333334
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,15.571428571428571,0.15285714285714286,14.666666666666666,0.08316666666666665
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,14.0,0.0955
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2,Royal Challengers Bangalore,team 2,2,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,2,Kolkata Knight Riders,team 2,2,11.0,-0.1696,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2,Rajasthan Royals,team 2,2,13.5,-0.19741666666666666,14.9,-0.09790000000000001
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Deccan Chargers,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,11.0,-0.1696,14.9,-0.09790000000000001
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2,Chennai Super Kings,team 2,2,14.666666666666666,0.08316666666666665,17.6,0.35839999999999994
+Mumbai Indians,Deccan Chargers,Deccan Chargers,1,Deccan Chargers,team 2,1,16.583333333333332,0.3133333333333334,11.0,-0.1696
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,2,Mumbai Indians,team 2,2,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,11.0,-0.1696,13.5,-0.19741666666666666
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,2,Royal Challengers Bangalore,team 2,2,11.0,-0.1696,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2,Kings XI Punjab,team 1,2,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2,Rajasthan Royals,team 2,2,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Chennai Super Kings,Deccan Chargers,Deccan Chargers,1,Deccan Chargers,team 2,1,17.6,0.35839999999999994,11.0,-0.1696
+Rajasthan Royals,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.9,-0.09790000000000001,16.583333333333332,0.3133333333333334
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2,Kolkata Knight Riders,team 1,2,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,11.0,-0.1696,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,2,Kolkata Knight Riders,team 1,2,14.666666666666666,0.08316666666666665,11.0,-0.1696
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2,Kings XI Punjab,team 2,2,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,14.9,-0.09790000000000001
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Deccan Chargers,Deccan Chargers,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,11.0,-0.1696
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2,Chennai Super Kings,team 2,2,14.666666666666666,0.08316666666666665,17.6,0.35839999999999994
+Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,14.666666666666666,0.08316666666666665,14.9,-0.09790000000000001
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2,Royal Challengers Bangalore,team 1,2,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,11.0,-0.1696,13.5,-0.19741666666666666
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,17.6,0.35839999999999994
+Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,11.0,-0.1696
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2,Kolkata Knight Riders,team 2,2,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Deccan Chargers,Chennai Super Kings,Deccan Chargers,2,Chennai Super Kings,team 2,2,11.0,-0.1696,17.6,0.35839999999999994
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,2,Chennai Super Kings,team 2,2,13.5,-0.19741666666666666,17.6,0.35839999999999994
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,2,Royal Challengers Bangalore,team 1,2,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,2,Deccan Chargers,team 2,2,14.666666666666666,0.08316666666666665,11.0,-0.1696
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,2,Deccan Chargers,team 1,2,11.0,-0.1696,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2,Kings XI Punjab,team 2,2,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Deccan Chargers,Mumbai Indians,Deccan Chargers,2,Deccan Chargers,team 1,2,11.0,-0.1696,16.583333333333332,0.3133333333333334
+Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2,Kings XI Punjab,team 1,2,13.5,-0.19741666666666666,14.9,-0.09790000000000001
+Chennai Super Kings,Deccan Chargers,Deccan Chargers,1,Deccan Chargers,team 2,1,17.6,0.35839999999999994,11.0,-0.1696
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2,Royal Challengers Bangalore,team 2,2,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2,Kings XI Punjab,team 1,2,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,2,Royal Challengers Bangalore,team 1,2,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Deccan Chargers,Rajasthan Royals,Deccan Chargers,2,Rajasthan Royals,team 2,2,11.0,-0.1696,14.9,-0.09790000000000001
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2,Kings XI Punjab,team 2,2,14.666666666666666,0.08316666666666665,13.5,-0.19741666666666666
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2,Royal Challengers Bangalore,team 2,2,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,11.0,-0.1696
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,13.5,-0.19741666666666666
+Deccan Chargers,Mumbai Indians,Deccan Chargers,2,Deccan Chargers,team 1,2,11.0,-0.1696,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,11.0,-0.1696,13.5,-0.19741666666666666
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2,Chennai Super Kings,team 2,2,14.9,-0.09790000000000001,17.6,0.35839999999999994
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Rajasthan Royals,Deccan Chargers,2,Deccan Chargers,team 1,2,11.0,-0.1696,14.9,-0.09790000000000001
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2,Mumbai Indians,team 2,2,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2,Royal Challengers Bangalore,team 2,2,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,16.583333333333332,0.3133333333333334
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,2,Chennai Super Kings,team 2,2,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,1,Deccan Chargers,team 2,1,14.666666666666666,0.08316666666666665,11.0,-0.1696
+Kings XI Punjab,Deccan Chargers,Deccan Chargers,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,11.0,-0.1696
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,Kolkata Knight Riders,team 2,2,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,2,Royal Challengers Bangalore,team 1,2,13.666666666666666,-0.05058333333333335,11.0,-0.1696
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Deccan Chargers,team 1,1,11.0,-0.1696,13.666666666666666,-0.05058333333333335
+Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,11.0,-0.1696
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.666666666666666,-0.05058333333333335,14.666666666666666,0.08316666666666665
+Deccan Chargers,Chennai Super Kings,Deccan Chargers,2,Deccan Chargers,team 1,2,11.0,-0.1696,17.6,0.35839999999999994
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2,Royal Challengers Bangalore,team 2,2,13.5,-0.19741666666666666,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.9,-0.09790000000000001,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,1,Deccan Chargers,team 1,1,11.0,-0.1696,13.5,-0.19741666666666666
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2,Royal Challengers Bangalore,team 2,2,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,17.6,0.35839999999999994
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,2,Mumbai Indians,team 2,2,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,13.5,-0.19741666666666666
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Deccan Chargers,Rajasthan Royals,Deccan Chargers,2,Rajasthan Royals,team 2,2,11.0,-0.1696,14.9,-0.09790000000000001
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2,Kolkata Knight Riders,team 1,2,14.666666666666666,0.08316666666666665,13.5,-0.19741666666666666
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,17.6,0.35839999999999994
+Mumbai Indians,Deccan Chargers,Deccan Chargers,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,11.0,-0.1696
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2,Chennai Super Kings,team 2,2,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,2,Kolkata Knight Riders,team 1,2,14.666666666666666,0.08316666666666665,11.0,-0.1696
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2,Royal Challengers Bangalore,team 2,2,13.5,-0.19741666666666666,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Mumbai Indians,Deccan Chargers,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,11.0,-0.1696
+Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2,Kings XI Punjab,team 2,2,14.666666666666666,0.08316666666666665,13.5,-0.19741666666666666
+Rajasthan Royals,Deccan Chargers,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,11.0,-0.1696
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,2,Rajasthan Royals,team 2,2,13.5,-0.19741666666666666,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,1,Deccan Chargers,team 2,1,13.666666666666666,-0.05058333333333335,11.0,-0.1696
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,2,Kings XI Punjab,team 2,2,16.583333333333332,0.3133333333333334,13.5,-0.19741666666666666
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2,Deccan Chargers,team 2,2,17.6,0.35839999999999994,11.0,-0.1696
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Deccan Chargers,team 1,1,11.0,-0.1696,13.666666666666666,-0.05058333333333335
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2,Chennai Super Kings,team 2,2,14.666666666666666,0.08316666666666665,17.6,0.35839999999999994
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,2,Royal Challengers Bangalore,team 2,2,14.9,-0.09790000000000001,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Deccan Chargers,Deccan Chargers,1,Deccan Chargers,team 2,1,13.5,-0.19741666666666666,11.0,-0.1696
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2,Kolkata Knight Riders,team 2,2,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,13.5,-0.19741666666666666,17.6,0.35839999999999994
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2,Kolkata Knight Riders,team 2,2,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,11.0,-0.1696
+Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,2,Royal Challengers Bangalore,team 2,2,11.0,-0.1696,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Deccan Chargers,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,11.0,-0.1696,14.9,-0.09790000000000001
+Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,2,Royal Challengers Bangalore,team 2,2,12.0,-0.214,13.666666666666666,-0.05058333333333335
+Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,2,Kolkata Knight Riders,team 1,2,14.666666666666666,0.08316666666666665,11.0,-0.1696
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Deccan Chargers,team 1,1,11.0,-0.1696,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,1,Kochi Tuskers Kerala,team 2,1,16.583333333333332,0.3133333333333334,12.0,-0.214
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,11.0,-0.1696,13.5,-0.19741666666666666
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,1,Kochi Tuskers Kerala,team 2,1,17.6,0.35839999999999994,12.0,-0.214
+Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,1,Kochi Tuskers Kerala,team 1,1,12.0,-0.214,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,14.9,-0.09790000000000001
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Deccan Chargers,Deccan Chargers,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,11.0,-0.1696
+Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,12.0,-0.214,14.9,-0.09790000000000001
+Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerala,1,Deccan Chargers,team 1,1,11.0,-0.1696,12.0,-0.214
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,11.0,-0.1696
+Mumbai Indians,Kings XI Punjab,Kings XI Punjab,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,13.5,-0.19741666666666666
+Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,11.0,-0.1696
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2,Chennai Super Kings,team 2,2,14.9,-0.09790000000000001,17.6,0.35839999999999994
+Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,1,Kochi Tuskers Kerala,team 1,1,12.0,-0.214,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,Kolkata Knight Riders,team 2,2,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,2,Royal Challengers Bangalore,team 2,2,12.0,-0.214,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.9,-0.09790000000000001,13.666666666666666,-0.05058333333333335
+Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,12.0,-0.214,13.5,-0.19741666666666666
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Mumbai Indians,Deccan Chargers,2,Deccan Chargers,team 1,2,11.0,-0.1696,16.583333333333332,0.3133333333333334
+Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,1,Kochi Tuskers Kerala,team 2,1,14.9,-0.09790000000000001,12.0,-0.214
+Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,2,Kings XI Punjab,team 1,2,13.5,-0.19741666666666666,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,12.0,-0.214
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,2,Rajasthan Royals,team 2,2,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Deccan Chargers,Kings XI Punjab,Kings XI Punjab,1,Deccan Chargers,team 1,1,11.0,-0.1696,13.5,-0.19741666666666666
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,13.5,-0.19741666666666666
+Chennai Super Kings,Deccan Chargers,Deccan Chargers,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,11.0,-0.1696
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Deccan Chargers,Mumbai Indians,Deccan Chargers,2,Mumbai Indians,team 2,2,11.0,-0.1696,16.583333333333332,0.3133333333333334
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2,Chennai Super Kings,team 2,2,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2,Kolkata Knight Riders,team 2,2,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Rajasthan Royals,Deccan Chargers,2,Rajasthan Royals,team 2,2,11.0,-0.1696,14.9,-0.09790000000000001
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2,Kolkata Knight Riders,team 2,2,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,13.5,-0.19741666666666666,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2,Chennai Super Kings,team 2,2,14.9,-0.09790000000000001,17.6,0.35839999999999994
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,2,Kings XI Punjab,team 2,2,16.583333333333332,0.3133333333333334,13.5,-0.19741666666666666
+Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,11.0,-0.1696,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2,Mumbai Indians,team 2,2,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,2,Kings XI Punjab,team 1,2,13.5,-0.19741666666666666,17.6,0.35839999999999994
+Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,2,Kolkata Knight Riders,team 1,2,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Deccan Chargers,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,11.0,-0.1696,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,Kolkata Knight Riders,team 2,2,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Chennai Super Kings,Deccan Chargers,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,11.0,-0.1696
+Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,13.5,-0.19741666666666666
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,11.0,-0.1696,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Deccan Chargers,Deccan Chargers,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,11.0,-0.1696
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,14.9,-0.09790000000000001,17.6,0.35839999999999994
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Deccan Chargers,Kings XI Punjab,Deccan Chargers,2,Kings XI Punjab,team 2,2,11.0,-0.1696,13.5,-0.19741666666666666
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,14.666666666666666,0.08316666666666665,17.6,0.35839999999999994
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Rajasthan Royals,Deccan Chargers,Rajasthan Royals,2,Deccan Chargers,team 2,2,14.9,-0.09790000000000001,11.0,-0.1696
+Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Deccan Chargers,team 1,1,11.0,-0.1696,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2,Mumbai Indians,team 2,2,14.9,-0.09790000000000001,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Mumbai Indians,Mumbai Indians,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,Kolkata Knight Riders,team 2,2,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,2,Sunrisers Hyderabad,team 2,2,13.666666666666666,-0.05058333333333335,15.571428571428571,0.15285714285714286
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,13.5,-0.19741666666666666,17.6,0.35839999999999994
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,2,Kolkata Knight Riders,team 1,2,14.666666666666666,0.08316666666666665,15.571428571428571,0.15285714285714286
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,13.5,-0.19741666666666666,14.9,-0.09790000000000001
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,16.583333333333332,0.3133333333333334
+Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,2,Sunrisers Hyderabad,team 2,2,13.5,-0.19741666666666666,15.571428571428571,0.15285714285714286
+Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,2,Chennai Super Kings,team 2,2,14.666666666666666,0.08316666666666665,17.6,0.35839999999999994
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.9,-0.09790000000000001,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2,Chennai Super Kings,team 2,2,14.9,-0.09790000000000001,17.6,0.35839999999999994
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,2,Mumbai Indians,team 2,2,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,2,Chennai Super Kings,team 2,2,15.571428571428571,0.15285714285714286,17.6,0.35839999999999994
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2,Kolkata Knight Riders,team 2,2,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,2,Rajasthan Royals,team 2,2,15.571428571428571,0.15285714285714286,14.9,-0.09790000000000001
+Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,13.5,-0.19741666666666666
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,2,Sunrisers Hyderabad,team 2,2,16.583333333333332,0.3133333333333334,15.571428571428571,0.15285714285714286
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2,Kolkata Knight Riders,team 2,2,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,2,Royal Challengers Bangalore,team 2,2,15.571428571428571,0.15285714285714286,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,15.571428571428571,0.15285714285714286
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,13.5,-0.19741666666666666,14.9,-0.09790000000000001
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,13.5,-0.19741666666666666
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.666666666666666,-0.05058333333333335,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,2,Mumbai Indians,team 2,2,15.571428571428571,0.15285714285714286,16.583333333333332,0.3133333333333334
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,2,Sunrisers Hyderabad,team 1,2,15.571428571428571,0.15285714285714286,14.9,-0.09790000000000001
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,2,Sunrisers Hyderabad,team 2,2,14.666666666666666,0.08316666666666665,15.571428571428571,0.15285714285714286
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,2,Rajasthan Royals,team 2,2,15.571428571428571,0.15285714285714286,14.9,-0.09790000000000001
+Rajasthan Royals,Mumbai Indians,Rajasthan Royals,2,Mumbai Indians,team 2,2,14.9,-0.09790000000000001,16.583333333333332,0.3133333333333334
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,2,Kolkata Knight Riders,team 1,2,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2,Kings XI Punjab,team 2,2,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,15.571428571428571,0.15285714285714286,14.9,-0.09790000000000001
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,14.9,-0.09790000000000001,13.5,-0.19741666666666666
+Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,15.571428571428571,0.15285714285714286
+Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,2,Chennai Super Kings,team 2,2,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,2,Chennai Super Kings,team 2,2,15.571428571428571,0.15285714285714286,17.6,0.35839999999999994
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Mumbai Indians,Kings XI Punjab,2,Mumbai Indians,team 2,2,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,15.571428571428571,0.15285714285714286,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,17.6,0.35839999999999994
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,14.9,-0.09790000000000001
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,2,Rajasthan Royals,team 2,2,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,2,Mumbai Indians,team 2,2,15.571428571428571,0.15285714285714286,16.583333333333332,0.3133333333333334
+Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,2,Chennai Super Kings,team 2,2,14.9,-0.09790000000000001,17.6,0.35839999999999994
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,15.571428571428571,0.15285714285714286,13.5,-0.19741666666666666
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2,Royal Challengers Bangalore,team 2,2,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,2,Kolkata Knight Riders,team 2,2,15.571428571428571,0.15285714285714286,14.666666666666666,0.08316666666666665
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,2,Sunrisers Hyderabad,team 2,2,13.666666666666666,-0.05058333333333335,15.571428571428571,0.15285714285714286
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,17.6,0.35839999999999994,15.571428571428571,0.15285714285714286
+Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,15.571428571428571,0.15285714285714286,14.666666666666666,0.08316666666666665
+Rajasthan Royals,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.9,-0.09790000000000001,16.583333333333332,0.3133333333333334
+Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,13.5,-0.19741666666666666
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,17.6,0.35839999999999994
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,1,Rajasthan Royals,team 1,1,14.9,-0.09790000000000001,13.5,-0.19741666666666666
+Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,15.571428571428571,0.15285714285714286
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Mumbai Indians,Mumbai Indians,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,13.666666666666666,-0.05058333333333335,15.571428571428571,0.15285714285714286
+Mumbai Indians,Rajasthan Royals,Mumbai Indians,2,Rajasthan Royals,team 2,2,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,1,Rajasthan Royals,team 2,1,15.571428571428571,0.15285714285714286,14.9,-0.09790000000000001
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,2,Chennai Super Kings,team 2,2,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2,Rajasthan Royals,team 2,2,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,1,Kings XI Punjab,team 2,1,14.9,-0.09790000000000001,13.5,-0.19741666666666666
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,14.666666666666666,0.08316666666666665
+Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.9,-0.09790000000000001,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,15.571428571428571,0.15285714285714286
+Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.5,-0.19741666666666666
+Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,13.5,-0.19741666666666666
+Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,1,Chennai Super Kings,team 1,1,17.6,0.35839999999999994,14.666666666666666,0.08316666666666665
+Mumbai Indians,Rajasthan Royals,Rajasthan Royals,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,14.9,-0.09790000000000001
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,17.6,0.35839999999999994
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,13.5,-0.19741666666666666
+Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,13.666666666666666,-0.05058333333333335
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,15.571428571428571,0.15285714285714286
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,14.9,-0.09790000000000001
+Chennai Super Kings,Mumbai Indians,Chennai Super Kings,2,Mumbai Indians,team 2,2,17.6,0.35839999999999994,16.583333333333332,0.3133333333333334
+Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,2,Kolkata Knight Riders,team 2,2,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2,Royal Challengers Bangalore,team 1,2,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,2,Chennai Super Kings,team 1,2,17.6,0.35839999999999994,14.9,-0.09790000000000001
+Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,2,Sunrisers Hyderabad,team 1,2,15.571428571428571,0.15285714285714286,13.5,-0.19741666666666666
+Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,13.666666666666666,-0.05058333333333335
+Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,14.666666666666666,0.08316666666666665
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,2,Royal Challengers Bangalore,team 2,2,15.571428571428571,0.15285714285714286,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,2,Chennai Super Kings,team 2,2,13.5,-0.19741666666666666,17.6,0.35839999999999994
+Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,2,Rajasthan Royals,team 1,2,14.9,-0.09790000000000001,14.666666666666666,0.08316666666666665
+Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,2,Mumbai Indians,team 2,2,15.571428571428571,0.15285714285714286,16.583333333333332,0.3133333333333334
+Mumbai Indians,Chennai Super Kings,Mumbai Indians,2,Mumbai Indians,team 1,2,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,2,Royal Challengers Bangalore,team 1,2,13.666666666666666,-0.05058333333333335,14.9,-0.09790000000000001
+Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,1,Chennai Super Kings,team 2,1,13.666666666666666,-0.05058333333333335,17.6,0.35839999999999994
+Mumbai Indians,Chennai Super Kings,Chennai Super Kings,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,17.6,0.35839999999999994
+Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,2,Rising Pune Supergiants,team 2,2,16.583333333333332,0.3133333333333334,14.0,0.0955
+Kings XI Punjab,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,13.5,-0.19741666666666666,13.0,-0.393
+Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,15.571428571428571,0.15285714285714286
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,2,Gujarat Lions,team 2,2,14.0,0.0955,13.0,-0.393
+Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,2,Kolkata Knight Riders,team 2,2,15.571428571428571,0.15285714285714286,14.666666666666666,0.08316666666666665
+Mumbai Indians,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,16.583333333333332,0.3133333333333334,13.0,-0.393
+Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,2,Kings XI Punjab,team 2,2,14.0,0.0955,13.5,-0.19741666666666666
+Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,16.583333333333332,0.3133333333333334,15.571428571428571,0.15285714285714286
+Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.5,-0.19741666666666666,14.666666666666666,0.08316666666666665
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,13.0,-0.393,15.571428571428571,0.15285714285714286
+Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,14.0,0.0955
+Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,13.5,-0.19741666666666666,15.571428571428571,0.15285714285714286
+Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,2,Gujarat Lions,team 2,2,13.666666666666666,-0.05058333333333335,13.0,-0.393
+Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,14.0,0.0955,14.666666666666666,0.08316666666666665
+Mumbai Indians,Kings XI Punjab,Kings XI Punjab,1,Mumbai Indians,team 1,1,16.583333333333332,0.3133333333333334,13.5,-0.19741666666666666
+Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,1,Rising Pune Supergiants,team 2,1,15.571428571428571,0.15285714285714286,14.0,0.0955
+Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.666666666666666,0.08316666666666665,16.583333333333332,0.3133333333333334
+Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,14.0,0.0955,13.0,-0.393
+Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,13.666666666666666,-0.05058333333333335
+Kings XI Punjab,Gujarat Lions,Gujarat Lions,1,Kings XI Punjab,team 1,1,13.5,-0.19741666666666666,13.0,-0.393
+Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,14.0,0.0955,16.583333333333332,0.3133333333333334
+Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,1,Kolkata Knight Riders,team 2,1,13.666666666666666,-0.05058333333333335,14.666666666666666,0.08316666666666665
+Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,13.5,-0.19741666666666666
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,13.0,-0.393,15.571428571428571,0.15285714285714286
+Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.0,0.0955,13.666666666666666,-0.05058333333333335
+Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,16.583333333333332,0.3133333333333334
+Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,14.666666666666666,0.08316666666666665,13.0,-0.393
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,2,Sunrisers Hyderabad,team 1,2,15.571428571428571,0.15285714285714286,14.0,0.0955
+Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,1,Mumbai Indians,team 2,1,13.666666666666666,-0.05058333333333335,16.583333333333332,0.3133333333333334
+Mumbai Indians,Kings XI Punjab,Mumbai Indians,2,Kings XI Punjab,team 2,2,16.583333333333332,0.3133333333333334,13.5,-0.19741666666666666
+Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,13.0,-0.393
+Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,2,Kolkata Knight Riders,team 2,2,14.0,0.0955,14.666666666666666,0.08316666666666665
+Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,2,Sunrisers Hyderabad,team 2,2,13.5,-0.19741666666666666,15.571428571428571,0.15285714285714286
+Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,14.666666666666666,0.08316666666666665,13.666666666666666,-0.05058333333333335
+Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,1,Royal Challengers Bangalore,team 1,1,13.666666666666666,-0.05058333333333335,13.5,-0.19741666666666666
+Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,14.666666666666666,0.08316666666666665,13.0,-0.393
+Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,2,Rising Pune Supergiants,team 2,2,13.5,-0.19741666666666666,14.0,0.0955
+Mumbai Indians,Gujarat Lions,Gujarat Lions,1,Gujarat Lions,team 2,1,16.583333333333332,0.3133333333333334,13.0,-0.393
+Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Kolkata Knight Riders,team 1,1,14.666666666666666,0.08316666666666665,15.571428571428571,0.15285714285714286
+Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,1,Royal Challengers Bangalore,team 2,1,13.0,-0.393,13.666666666666666,-0.05058333333333335
+Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,1,Sunrisers Hyderabad,team 1,1,15.571428571428571,0.15285714285714286,14.666666666666666,0.08316666666666665
+Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,1,Sunrisers Hyderabad,team 2,1,13.0,-0.393,15.571428571428571,0.15285714285714286
+Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,2,Sunrisers Hyderabad,team 1,2,15.571428571428571,0.15285714285714286,13.666666666666666,-0.05058333333333335
